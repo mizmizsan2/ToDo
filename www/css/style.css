@@ -1,0 +1,25 @@
+.memo{
+    margin: 2em auto;
+ padding: 1em;
+ width: 90%;
+ background-color: #f1ffee; 
+ box-shadow: 0 0 5px 1px #ccc; 
+}
+
+.text{
+    resize: none;
+    width: 90%;
+    padding: 1em;
+}
+
+.save{
+    width: 98%;
+  background: rgb(0, 255, 55); /* 背景色 */
+  color: rgb(0, 0, 0); /* 文字色 */
+  font-size: 150%;
+  padding: 16px 40px; /* 上下の余白、左右の余白 */
+  border-radius: 14px; 
+  border: none;
+
+}
+
